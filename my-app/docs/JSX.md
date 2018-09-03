@@ -2,7 +2,7 @@
 ### What
 
 1. Javascript extention
-2. Giúp viết HTML trong JS
+2. Giúp viết HTML trong JS
 ```
 const element = <h1>Hello, {name}</h1>;
 ```
